@@ -1,4 +1,4 @@
-onst questions = [
+const questions = [
     {
         question: "Which of the following sentences illustrates the use of an adverb?",
         options: ["The cat is furry.", "She sang beautifully at the concert.", "The book on the table is new.", "He is a fast runner."],
